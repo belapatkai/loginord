@@ -7,5 +7,5 @@ If you have any ideas for further development please add them to the issues sect
 # Related
 
 Interesting related stuff:
-	* https://prezi.com/-kosjanxgdev/agrimore/
-	* http://agrimore.eu/
+* https://prezi.com/-kosjanxgdev/agrimore/
+* http://agrimore.eu/
